@@ -28,6 +28,7 @@ body {
     align-items: center;
     font-family: Arial, sans-serif;
     background-color: #cbd5e1;
+    height: 100vh;
 }
 .scoreboard {
     margin-bottom: 20px;
